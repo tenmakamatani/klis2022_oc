@@ -55,7 +55,7 @@
                         </p>
                     </b-col>
                     <b-col md="12" sm="12"><a
-                            href="https://github.com/UTsukuba-Klis-OC/klis2020_oc/blob/master/LICENSE">OPEN MIT
+                            href="https://github.com/tenmakamatani/klis2022_oc/blob/master/LICENSE">OPEN MIT
                             LICENSE</a></b-col>
                     <b-col style="margin-top:2em;" md="12" sm="12"><a
                             href="https://policies.google.com/privacy?hl=ja">Google Analytics プライバシーポリシー</a></b-col>

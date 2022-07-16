@@ -4,12 +4,12 @@
         <div class="body">
 
             <div class="hyoushi">
-                <img alt="klis oppencampus 2020 logo" class="b-logo d-inline-block align-top"
+                <img alt="klis oppencampus 2022 logo" class="b-logo d-inline-block align-top"
                     src="../assets/utlogo.svg">
                 <!-- <button class="hp-l" src="">学類ホームページ</button> -->
             </div>
             <div class="typer">
-                <vue-typer :text='["KLIS OPEN CAMPUS ONLINE 2020","2020.8.30 ONAIR"]' :repeat='0' :shuffle='false'
+                <vue-typer :text='["KLIS OPEN CAMPUS ONLINE 2022","2022.8.6 ONAIR"]' :repeat='0' :shuffle='false'
                     initial-action='typing' :pre-type-delay='70' :type-delay='100' :pre-erase-delay='2000'
                     :erase-delay='150' erase-style='clear' :erase-on-complete='false' caret-animation='blink'>
                 </vue-typer>
@@ -29,7 +29,7 @@
                 </ul> -->
                 </b-row>
                 <h3>Live Session Archive</h3>
-                <p style="color:pink; font-weight:bold; font-size:14pt;">2020年度のオープンキャンパスは終了しました。<br>アーカイブコンテンツ更新中！。
+                <!-- <p style="color:pink; font-weight:bold; font-size:14pt;">2020年度のオープンキャンパスは終了しました。<br>アーカイブコンテンツ更新中！。 -->
                 </p>
             </div>
         </div>
