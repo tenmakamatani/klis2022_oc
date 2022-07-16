@@ -9,12 +9,12 @@
 
             <b-container class="movie-gal">
                 <b-form-row class="justify-content-md-center">
+                    <!-- <b-col md="3" sm="12"><a class="buttonton hb"
+                            href="https://www.tsukuba.ac.jp/admission/undergrad/pdf/2021/r3-2.pdf">総合選抜・後期・推薦</a></b-col> -->
                     <b-col md="3" sm="12"><a class="buttonton hb"
-                            href="https://www.tsukuba.ac.jp/admission/undergrad/pdf/2021/r3-2.pdf">総合選抜・後期・推薦</a></b-col>
+                            href="https://www.tsukuba.ac.jp/admission/undergrad-list-guidebooks/pdf/AC-youkou-2023.pdf">AC入試</a></b-col>
                     <b-col md="3" sm="12"><a class="buttonton hb"
-                            href="http://www.tsukuba.ac.jp/admission/undergrad/pdf/2021/r3-ac-youkou.pdf">AC入試</a></b-col>
-                    <b-col md="3" sm="12"><a class="buttonton hb"
-                            href="https://www.tsukuba.ac.jp/admission/undergrad/pdf/2021/r3-hennyu-youkou.pdf">編入学</a></b-col>
+                            href="https://www.tsukuba.ac.jp/admission/undergrad-list-guidebooks/pdf/r5-hennyu-yoko.pdf">編入学</a></b-col>
                 </b-form-row>
 
                 <p class="cen-text" style="font-size:24pt;font-weight:100;margin-bottom:2px;  margin-top:2em;">関連リンク</p>
