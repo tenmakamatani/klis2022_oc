@@ -2,7 +2,7 @@
   <div id="app">
     <!-- HEADER -->
     <toptitle id="top"></toptitle>
-    <button class="sbutton" type="button" @click="showModal = true"><img class="sbimg" src="./assets/submitbutton.png"></button>
+    <!-- <button class="sbutton" type="button" @click="showModal = true"><img class="sbimg" src="./assets/submitbutton.png"></button> -->
     <submit v-if="showModal" @close="showModal = false"></submit>
     <primaryheader></primaryheader>
     <test id="about"></test>
