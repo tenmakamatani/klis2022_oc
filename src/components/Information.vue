@@ -43,7 +43,7 @@
                 <b-form-row class="justify-content-md-center">
                     <b-col md="12" sm="12">
                         <p style="text-align:center;">知識情報・図書館学類では学生が説明会の企画運営・動画・ホームページ・印刷物の作製を学類と協力して行なっています。<br>
-                            <b> 統括・片野樹里 / 動画・茂業哲也(@ninjamagicston) / ホームページ・村上貴人 (@murataka9) / 制作・大学説明会実行委員会</b></p>
+                            <b> 統括・岡澤拓也 / 動画・朱博泉 / ホームページ・村上貴人 (@murataka9)、鎌谷天馬 / 制作・大学説明会実行委員会</b></p>
                     </b-col>
                 </b-form-row>
 
