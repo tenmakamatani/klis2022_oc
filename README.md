@@ -1,8 +1,8 @@
-# klis2020_oc
+# klis22_oc
 [![GitHub license](https://img.shields.io/github/license/murataka9/klis2020_oc)](https://github.com/murataka9/klis2020_oc/blob/master/LICENSE)
 
-知識情報・図書館学類 (筑波大学情報学群)の「受験生のための大学説明会 2020」特設サイトです。学類説明会実行委員会が運用しています。弊学類生のPRと大説委への参加を大歓迎します。  
-This is UTsukuba, KLIS OpenCampus 2020 Special Website. Developing the website and operating is KLIA Open Campus committee. Welcome to PR everyone and Join us from KLIS Undergraduate!
+知識情報・図書館学類 (筑波大学情報学群)の「受験生のための大学説明会 2022」特設サイトです。学類説明会実行委員会が運用しています。弊学類生のPRと大説委への参加を大歓迎します。  
+This is UTsukuba, KLIS OpenCampus 2022 Special Website. Developing the website and operating is KLIA Open Campus committee. Welcome to PR everyone and Join us from KLIS Undergraduate!
 
 ## About
 - KLIS OC commitee - http://klis.tsukuba.ac.jp/klis_students/
