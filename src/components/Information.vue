@@ -49,16 +49,16 @@
 
                 <p class="cen-text" style="font-size:24pt;font-weight:100;margin-bottom:2px; margin-top:2em;">その他</p>
                 <b-form-row class="justify-content-md-center">
-                    <b-col md="12" sm="12">
+                    <!-- <b-col md="12" sm="12">
                         <p style="text-align:center;">このホームページはGitHubコントリビューターの皆様のご協力により作成されております。<br>
                             アクセス解析のためGoogle Analyticsを使用しています。<br>
                         </p>
-                    </b-col>
+                    </b-col> -->
                     <b-col md="12" sm="12"><a
                             href="https://github.com/tenmakamatani/klis2022_oc/blob/master/LICENSE">OPEN MIT
                             LICENSE</a></b-col>
-                    <b-col style="margin-top:2em;" md="12" sm="12"><a
-                            href="https://policies.google.com/privacy?hl=ja">Google Analytics プライバシーポリシー</a></b-col>
+                    <!-- <b-col style="margin-top:2em;" md="12" sm="12"><a
+                            href="https://policies.google.com/privacy?hl=ja">Google Analytics プライバシーポリシー</a></b-col> -->
                 </b-form-row>
 
             </b-container>

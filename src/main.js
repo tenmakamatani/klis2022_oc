@@ -20,7 +20,6 @@ import VueTyperPlugin from 'vue-typer'
 import VModal from 'vue-js-modal'
 
 // analytics
-import VueAnalytics from 'vue-analytics'
 import VueCookieAcceptDecline from 'vue-cookie-accept-decline'
 
 
@@ -29,9 +28,6 @@ Vue.use(VueTyperPlugin)
 Vue.use(BootstrapVue)
 Vue.use(VModal)
 // Vue.use(VueThinModal)
-Vue.use(VueAnalytics, {
-  id: 'UA-176003545-1'
-})
 
 library.add(faGlobe, faBlog, faBirthdayCake, faImage, faTwitter, faGithub, faHtml5, faCss3Alt, faJsSquare)
 
