@@ -15,23 +15,23 @@
                 </vue-typer>
             </div>
 
-           
+           <!--
             <div class="schedule">
                 <b-row>
                 <b-col md="12" ms="12"><iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/oUNOLaQqMXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></b-col>              
-                <!-- <h3>Movie Contents</h3>
+                <! <h3>Movie Contents</h3>
                 <ul style="list-style: none;">
                     <li>学類プロモーションビデオ</li> 
                     <li>ビブリオバトル説明</li>
                     <li>模擬講義</li>
                     <li>学生へのインタビュー</li>
                     <li>キャンパスツアー</li>
-                </ul> -->
+                </ul> 
                 </b-row>
                 <h3>Live Session Archive</h3>
-                <!-- <p style="color:pink; font-weight:bold; font-size:14pt;">2020年度のオープンキャンパスは終了しました。<br>アーカイブコンテンツ更新中！。 -->
-                </p>
+                <p style="color:pink; font-weight:bold; font-size:14pt;">2020年度のオープンキャンパスは終了しました。<br>アーカイブコンテンツ更新中！。</p>
             </div>
+            -->
         </div>
     </div>
 </template>
@@ -75,7 +75,7 @@
             z-index: 10;
             display: block;
             position: relative;
-            height: 110vh!important;
+            height: 30vh!important;
         }
 
         #granim-canvas {
@@ -143,7 +143,7 @@
         }
 
         .view {
-            height: 110vh;
+            height: 30vh;
             margin-bottom: 0 !important;
             padding-bottm: 10vh !important;
         }
