@@ -2,7 +2,7 @@
   <b-navbar fixed="bottom" toggleable="lg" type="light" variant="light">
     <b-navbar-brand href="#">
         <!-- <div class="c1">知識情報・図書館学類</div><div class="c2">オープンキャンパス<div class="year">2022</div></div> -->
-         <img alt="klis oppencampus 2022 logo" class="b-logo d-inline-block align-top" src="../assets/logo.svg">
+        <!-- <img alt="klis oppencampus 2022 logo" class="b-logo d-inline-block align-top" src="../assets/logo.svg"> -->
     </b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
