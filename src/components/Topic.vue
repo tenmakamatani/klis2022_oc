@@ -6,7 +6,7 @@
         <h2 class="cen-text">About KLIS</h2>
         <p class="cen-text">KLIS = 知識情報・図書館学類学類は知識の形式化や探索・収集技術，伝達方法，知識と情報の仲介技術，データを分析的，解析的にあつかって知識を抽出する手法などを修得する文理融合の学類です。</p>
         <b-col md="auto" sm="12"><a class="buttonton" href="https://klis.tsukuba.ac.jp/">学類ホームページ</a></b-col>
-        <b-col md="auto" sm="12"><iframe class="youtube-pv" src="https://www.youtube.com/embed/4zEaN6-jSdw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></b-col>
+        <b-col md="auto" sm="12"><iframe class="youtube-pv" src="https://www.youtube.com/watch?v=THJDMdKf4L8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></b-col>
         </div>
         </b-row>
         </div>
